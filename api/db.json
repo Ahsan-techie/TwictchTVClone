@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "React Tutorial",
+      "description": "i am watching react tutorials",
+      "id": 1
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "watching programmatic navigation",
+      "id": 6
+    }
+  ]
+}
